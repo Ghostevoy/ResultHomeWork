@@ -34,6 +34,7 @@ ____
 
 ## 3 Блок-схема
 
+![Здесь могла быть ваша реклама](https://github.com/Ghostevoy/ResultHomeWork/blob/main/HM1.png?raw=true)
 
 
 
